@@ -1,0 +1,698 @@
+<!DOCTYPE library SYSTEM "C:\Users\anaia\OneDrive\Desktop\biblioteca.dtd">
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Biblioteca>
+    <cartea>
+        <titlul>Mândrie și prejudecată</titlul>
+        <autorul>Jane Austen</autorul>
+        <an_apariție>1813</an_apariție>
+        <genul>Roman clasic</genul>
+        <nr_împrumuturi>15</nr_împrumuturi>
+    </cartea>
+    <cartea>
+        <titlul>Charlie și fabrica de ciocolată</titlul>
+        <autorul>Roald Dahl</autorul>
+        <an_apariție>1964</an_apariție>
+        <genul>Carte pentru copii</genul>
+        <nr_împrumuturi>8</nr_împrumuturi>
+    </cartea>
+    <cartea>
+        <titlul>1984</titlul>
+        <autorul>George Orwell</autorul>
+        <an_apariție>1949</an_apariție>
+        <genul>Ficțiune distopică</genul>
+        <nr_împrumuturi>20</nr_împrumuturi>
+    </cartea>
+    <cartea>
+        <titlul>Marile speranțe</titlul>
+        <autorul>Charles Dickens</autorul>
+        <an_apariție>1861</an_apariție>
+        <genul>Roman clasic</genul>
+        <nr_împrumuturi>12</nr_împrumuturi>
+    </cartea>
+    <cartea>
+        <titlul>Să ucizi o pasăre cântătoare</titlul>
+        <autorul>Harper Lee</autorul>
+        <an_apariție>1960</an_apariție>
+        <genul>Roman clasic</genul>
+        <nr_împrumuturi>10</nr_împrumuturi>
+    </cartea>
+    <cartea>
+        <titlul>Frankenstein</titlul>
+        <autorul>Mary Shelley</autorul>
+        <an_apariție>1818</an_apariție>
+        <genul>Literatură gotică</genul>
+        <nr_împrumuturi>18</nr_împrumuturi>
+    </cartea>
+    <cartea>
+        <titlul>La răscruce de vânturi</titlul>
+        <autorul>Emily Bronte</autorul>
+        <an_apariție>1847</an_apariție>
+        <genul>Roman clasic</genul>
+        <nr_împrumuturi>14</nr_împrumuturi>
+    </cartea>
+    <cartea>
+        <titlul>Împăratul muștelor</titlul>
+        <autorul>William Golding</autorul>
+        <an_apariție>1954</an_apariție>
+        <genul>Ficțiune pentru tineri</genul>
+        <nr_împrumuturi>11</nr_împrumuturi>
+    </cartea>
+    <cartea>
+        <titlul>Vanity Fair</titlul>
+        <autorul>William Makepeace Thackeray</autorul>
+        <an_apariție>1848</an_apariție>
+        <genul>Roman clasic</genul>
+        <nr_împrumuturi>16</nr_împrumuturi>
+    </cartea>
+    <cartea>
+        <titlul>Lolita</titlul>
+        <autorul>Vladimir Nabokov</autorul>
+        <an_apariție>1955</an_apariție>
+        <genul>Ficțiune literară</genul>
+        <nr_împrumuturi>9</nr_împrumuturi>
+    </cartea>
+    <cartea>
+        <titlul>Jane Eyre</titlul>
+        <autorul>Charlotte Bronte</autorul>
+        <an_apariție>1847</an_apariție>
+        <genul>Roman clasic</genul>
+        <nr_împrumuturi>13</nr_împrumuturi>
+    </cartea>
+    <cartea>
+        <titlul>Dune</titlul>
+        <autorul>Frank Hebert</autorul>
+        <an_apariție>1965</an_apariție>
+        <genul>Ficțiune științifico-fantastică</genul>
+        <nr_împrumuturi>7</nr_împrumuturi>
+    </cartea>
+    <cartea>
+        <titlul>Marele Gatsby</titlul>
+        <autorul>Scott F. Fitzgerald</autorul>
+        <an_apariție>1925</an_apariție>
+        <genul>Roman clasic</genul>
+        <nr_împrumuturi>22</nr_împrumuturi>
+    </cartea>
+    <cartea>
+        <titlul>Tess of the d’Urbervilles</titlul>
+        <autorul>Thomas Hardy</autorul>
+        <an_apariție>1891</an_apariție>
+        <genul>Roman clasic</genul>
+        <nr_împrumuturi>11</nr_împrumuturi>
+    </cartea>
+    <cartea>
+        <titlul>Dracula</titlul>
+        <autorul>Bram Stoker</autorul>
+        <an_apariție>1897</an_apariție>
+        <genul>Ficțiune gotică</genul>
+        <nr_împrumuturi>17</nr_împrumuturi>
+    </cartea>
+    <cartea>
+        <titlul>De veghe în lanul de secară</titlul>
+        <autorul>JD Salinger</autorul>
+        <an_apariție>1951</an_apariție>
+        <genul>Roman clasic</genul>
+        <nr_împrumuturi>14</nr_împrumuturi>
+    </cartea>
+    <cartea>
+        <titlul>Anna Karenina</titlul>
+        <autorul>Lev Tolstoi</autorul>
+        <an_apariție>1877</an_apariție>
+        <genul>Roman clasic</genul>
+        <nr_împrumuturi>19</nr_împrumuturi>
+    </cartea>
+    <cartea>
+        <titlul>Catch-22</titlul>
+        <autorul>Joseph Heller</autorul>
+        <an_apariție>1961</an_apariție>
+        <genul>Literatură absurdă</genul>
+        <nr_împrumuturi>10</nr_împrumuturi>
+    </cartea>
+    <cartea>
+        <titlul>Legături periculoase</titlul>
+        <autorul>Pierre Choderlos de Laclos</autorul>
+        <an_apariție>1782</an_apariție>
+        <genul>Roman epistolar</genul>
+        <nr_împrumuturi>15</nr_împrumuturi>
+    </cartea>
+    <cartea>
+        <titlul>O sută de ani de singurătate</titlul>
+        <autorul>Gabriel Garcia Marquez</autorul>
+        <an_apariție>1967</an_apariție>
+        <genul>Realism magic</genul>
+        <nr_împrumuturi>21</nr_împrumuturi>
+    </cartea>
+    <cartea>
+        <titlul>Procesul</titlul>
+        <autorul>Franz Kafka</autorul>
+        <an_apariție>1925</an_apariție>
+        <genul>Ficțiune absurdă</genul>
+        <nr_împrumuturi>12</nr_împrumuturi>
+    </cartea>
+    <cartea>
+        <titlul>Siddhartha</titlul>
+        <autorul>Hermann Hess</autorul>
+        <an_apariție>1922</an_apariție>
+        <genul>Literatură filozofică</genul>
+        <nr_împrumuturi>9</nr_împrumuturi>
+    </cartea>
+    <cartea>
+        <titlul>Contele de Monte Cristo</titlul>
+        <autorul>Alexandre Dumas</autorul>
+        <an_apariție>1844</an_apariție>
+        <genul>Roman clasic</genul>
+        <nr_împrumuturi>25</nr_împrumuturi>
+    </cartea>
+    <cartea>
+        <titlul>Cetatea celor o mie de sori</titlul>
+        <autorul>Khaled Hosseini</autorul>
+        <an_apariție>2007</an_apariție>
+        <genul>Ficțiune istorică</genul>
+        <nr_împrumuturi>16</nr_împrumuturi>
+    </cartea>
+    <cartea>
+        <titlul>Viața secretă a albinelor</titlul>
+        <autorul>Sue Monk Kidd</autorul>
+        <an_apariție>2002</an_apariție>
+        <genul>Roman contemporan</genul>
+        <nr_împrumuturi>11</nr_împrumuturi>
+    </cartea>
+    <cartea>
+        <titlul>Hoțul de cărți</titlul>
+        <autorul>Markus Zusak</autorul>
+        <an_apariție>2005</an_apariție>
+        <genul>Literatură pentru tineret</genul>
+        <nr_împrumuturi>19</nr_împrumuturi>
+    </cartea>
+    <cartea>
+        <titlul>Alchimistul</titlul>
+        <autorul>Paulo Coelho</autorul>
+        <an_apariție>1988</an_apariție>
+        <genul>Literatură filozofică</genul>
+        <nr_împrumuturi>22</nr_împrumuturi>
+    </cartea>
+    <cartea>
+        <titlul>Aventurile lui Huckleberry Finn</titlul>
+        <autorul>Mark Twain</autorul>
+        <an_apariție>1885</an_apariție>
+        <genul>Literatură pentru tineret</genul>
+        <nr_împrumuturi>14</nr_împrumuturi>
+    </cartea>
+    <cartea>
+        <titlul>Cei trei muschetari</titlul>
+        <autorul>Alexandre Dumas</autorul>
+        <an_apariție>1844</an_apariție>
+        <genul>Roman clasic</genul>
+        <nr_împrumuturi>18</nr_împrumuturi>
+    </cartea>
+    <cartea>
+        <titlul>Micul prinț</titlul>
+        <autorul>Antoine de Saint-Exupery</autorul>
+        <an_apariție>1943</an_apariție>
+        <genul>Carte pentru copii</genul>
+        <nr_împrumuturi>9</nr_împrumuturi>
+    </cartea>
+    <cartea>
+        <titlul>Hobbitul</titlul>
+        <autorul>J. R. R. Tolkien</autorul>
+        <an_apariție>1937</an_apariție>
+        <genul>Ficțiune pentru copii și tineret</genul>
+        <nr_împrumuturi>16</nr_împrumuturi>
+    </cartea>
+    <cartea>
+        <titlul>Stăpânul inelelor</titlul>
+        <autorul>J. R. R. Tolkien</autorul>
+        <an_apariție>1954</an_apariție>
+        <genul>Ficțiune pentru copii și tineret</genul>
+        <nr_împrumuturi>23</nr_împrumuturi>
+    </cartea>
+    <cartea>
+        <titlul>Bătrânul și marea</titlul>
+        <autorul>Ernest Hemingway</autorul>
+        <an_apariție>1952</an_apariție>
+        <genul>Literatură americană</genul>
+        <nr_împrumuturi>13</nr_împrumuturi>
+    </cartea>
+    <cartea>
+        <titlul>Străinul</titlul>
+        <autorul>Albert Camus</autorul>
+        <an_apariție>1942</an_apariție>
+        <genul>Ficțiune existentialistă</genul>
+        <nr_împrumuturi>10</nr_împrumuturi>
+    </cartea>
+    <cartea>
+        <titlul>Inferno</titlul>
+        <autorul>Dante Alighieri</autorul>
+        <an_apariție>1320</an_apariție>
+        <genul>Poezie epică</genul>
+        <nr_împrumuturi>8</nr_împrumuturi>
+    </cartea>
+    <cartea>
+        <titlul>Don Quixote</titlul>
+        <autorul>Miguel de Cervantes</autorul>
+        <an_apariție>1605</an_apariție>
+        <genul>Roman clasic</genul>
+        <nr_împrumuturi>17</nr_împrumuturi>
+    </cartea>
+    <cartea>
+        <titlul>Harry Potter</titlul>
+        <autorul>J. K. Rowling</autorul>
+        <an_apariție>1997</an_apariție>
+        <genul>Fantastic pentru tineret</genul>
+        <nr_împrumuturi>27</nr_împrumuturi>
+    </cartea>
+    <cartea>
+        <titlul>The Games of Thrones</titlul>
+        <autorul>George R. R. Martin</autorul>
+        <an_apariție>1996</an_apariție>
+        <genul>Fantastic epic</genul>
+        <nr_împrumuturi>24</nr_împrumuturi>
+    </cartea>
+    <cartea>
+        <titlul>Zece negri mititei</titlul>
+        <autorul>Agatha Christie</autorul>
+        <an_apariție>1939</an_apariție>
+        <genul>Roman polițist</genul>
+        <nr_împrumuturi>18</nr_împrumuturi>
+    </cartea>
+    <cartea>
+        <titlul>Poveste despre două orașe</titlul>
+        <autorul>Charles Dickens</autorul>
+        <an_apariție>1859</an_apariție>
+        <genul>Roman clasic</genul>
+        <nr_împrumuturi>13</nr_împrumuturi>
+    </cartea>
+    <cartea>
+        <titlul>Cronicile din Narnia</titlul>
+        <autorul>C. S. Lewis</autorul>
+        <an_apariție>1950</an_apariție>
+        <genul>Fantastic pentru copii și tineret</genul>
+        <nr_împrumuturi>19</nr_împrumuturi>
+    </cartea>
+    <cartea>
+        <titlul>Codul lui Da Vinci</titlul>
+        <autorul>Dan Brown</autorul>
+        <an_apariție>2003</an_apariție>
+        <genul>Thriller conspirativ</genul>
+        <nr_împrumuturi>25</nr_împrumuturi>
+    </cartea>
+    <cartea>
+        <titlul>Anne of Green Gables</titlul>
+        <autorul>Lucy Maud Montgomery</autorul>
+        <an_apariție>1908</an_apariție>
+        <genul>Literatură pentru copii și tineret</genul>
+        <nr_împrumuturi>14</nr_împrumuturi>
+    </cartea>
+    <cartea>
+        <titlul>Pânza Charlottei</titlul>
+        <autorul>E. B. White</autorul>
+        <an_apariție>1952</an_apariție>
+        <genul>Ficțiune pentru copii și tineret</genul>
+        <nr_împrumuturi>12</nr_împrumuturi>
+    </cartea>
+    <cartea>
+        <titlul>Black Beauty</titlul>
+        <autorul>Anna Sewell</autorul>
+        <an_apariție>1877</an_apariție>
+        <genul>Literatură pentru copii și tineret</genul>
+        <nr_împrumuturi>15</nr_împrumuturi>
+    </cartea>
+    <cartea>
+        <titlul>Povestea slujitoarei</titlul>
+        <autorul>Margaret Atwood</autorul>
+        <an_apariție>1985</an_apariție>
+        <genul>Roman distopic</genul>
+        <nr_împrumuturi>20</nr_împrumuturi>
+    </cartea>
+    <cartea>
+        <titlul>Fiicele doctorului March</titlul>
+        <autorul>Louisa May Alcott</autorul>
+        <an_apariție>1868</an_apariție>
+        <genul>Literatură pentru copii și tineret</genul>
+        <nr_împrumuturi>18</nr_împrumuturi>
+    </cartea>
+    <cartea>
+        <titlul>Război și pace</titlul>
+        <autorul>Lev Tolstoi</autorul>
+        <an_apariție>1869</an_apariție>
+        <genul>Roman istoric</genul>
+        <nr_împrumuturi>24</nr_împrumuturi>
+    </cartea>
+    <cartea>
+        <titlul>Vânătorii de zmeie</titlul>
+        <autorul>Khaled Hosseini</autorul>
+        <an_apariție>2003</an_apariție>
+        <genul>Literatură contemporană</genul>
+        <nr_împrumuturi>17</nr_împrumuturi>
+    </cartea>
+    <cartea>
+        <titlul>Portret lui Dorian Gray</titlul>
+        <autorul>Oscar Wilde</autorul>
+        <an_apariție>1890</an_apariție>
+        <genul>Roman gotic</genul>
+        <nr_împrumuturi>11</nr_împrumuturi>
+    </cartea>
+    <cartea>
+        <titlul>Moby-Dick</titlul>
+        <autorul>Herman Melville</autorul>
+        <an_apariție>1851</an_apariție>
+        <genul>Roman clasic</genul>
+        <nr_împrumuturi>23</nr_împrumuturi>
+    </cartea>
+    <cartea>
+        <titlul>Crimă și pedeapsă</titlul>
+        <autorul>Fyodor Dostoievski</autorul>
+        <an_apariție>1866</an_apariție>
+        <genul>Roman psihologic</genul>
+        <nr_împrumuturi>19</nr_împrumuturi>
+    </cartea>
+    <cartea>
+        <titlul>Madame Bovary</titlul>
+        <autorul>Gustave Flaubert</autorul>
+        <an_apariție>1856</an_apariție>
+        <genul>Roman realist</genul>
+        <nr_împrumuturi>15</nr_împrumuturi>
+    </cartea>
+    <cartea>
+        <titlul>Farul</titlul>
+        <autorul>Virginia Woolf</autorul>
+        <an_apariție>1927</an_apariție>
+        <genul>Roman modernist</genul>
+        <nr_împrumuturi>8</nr_împrumuturi>
+    </cartea>
+    <cartea>
+        <titlul>Roșu și negru</titlul>
+        <autorul>Stendhal</autorul>
+        <an_apariție>1830</an_apariție>
+        <genul>Roman psihologic</genul>
+        <nr_împrumuturi>14</nr_împrumuturi>
+    </cartea>
+    <cartea>
+        <titlul>David Copperfield</titlul>
+        <autorul>Charles Dickens</autorul>
+        <an_apariție>1850</an_apariție>
+        <genul>Roman clasic</genul>
+        <nr_împrumuturi>21</nr_împrumuturi>
+    </cartea>
+    <cartea>
+        <titlul>Maestrul și Margareta</titlul>
+        <autorul>Mikhail Bulgakov</autorul>
+        <an_apariție>1967</an_apariție>
+        <genul>Ficțiune satirică</genul>
+        <nr_împrumuturi>16</nr_împrumuturi>
+    </cartea>
+    <cartea>
+        <titlul>Moș Goriot</titlul>
+        <autorul>Honor de Balzac</autorul>
+        <an_apariție>1835</an_apariție>
+        <genul>Roman realist</genul>
+        <nr_împrumuturi>12</nr_împrumuturi>
+    </cartea>
+    <cartea>
+        <titlul>Verișoara Beth</titlul>
+        <autorul>Honor de Balzac</autorul>
+        <an_apariție>1846</an_apariție>
+        <genul>Roman realist</genul>
+        <nr_împrumuturi>10</nr_împrumuturi>
+    </cartea>
+    <cartea>
+        <titlul>Colț Alb</titlul>
+        <autorul>Jack London</autorul>
+        <an_apariție>1906</an_apariție>
+        <genul>Literatură pentru copii și tineret</genul>
+        <nr_împrumuturi>15</nr_împrumuturi>
+    </cartea>
+    <cartea>
+        <titlul>Mizerabilii</titlul>
+        <autorul>Victor Hugo</autorul>
+        <an_apariție>1862</an_apariție>
+        <genul>Roman istoric</genul>
+        <nr_împrumuturi>18</nr_împrumuturi>
+    </cartea>
+    <cartea>
+        <titlul>Idiotul</titlul>
+        <autorul>Fyodor Dostoievski</autorul>
+        <an_apariție>1869</an_apariție>
+        <genul>Roman psihologic</genul>
+        <nr_împrumuturi>20</nr_împrumuturi>
+    </cartea>
+    <cartea>
+        <titlul>Pe aripile vântului</titlul>
+        <autorul>Margaret Mitchell</autorul>
+        <an_apariție>1936</an_apariție>
+        <genul>Roman istoric</genul>
+        <nr_împrumuturi>25</nr_împrumuturi>
+    </cartea>
+    <cartea>
+        <titlul>Emma</titlul>
+        <autorul>Jane Austen</autorul>
+        <an_apariție>1815</an_apariție>
+        <genul>Roman clasic</genul>
+        <nr_împrumuturi>14</nr_împrumuturi>
+    </cartea>
+    <cartea>
+        <titlul>Ferma animalelor</titlul>
+        <autorul>George Orwell</autorul>
+        <an_apariție>1945</an_apariție>
+        <genul>Ficțiune satirică</genul>
+        <nr_împrumuturi>11</nr_împrumuturi>
+    </cartea>
+    <cartea>
+        <titlul>Gargantua și Pantagruel</titlul>
+        <autorul>François Rabelais</autorul>
+        <an_apariție>1532</an_apariție>
+        <genul>Roman satiric</genul>
+        <nr_împrumuturi>9</nr_împrumuturi>
+    </cartea>
+    <cartea>
+        <titlul>Robinson Crusoe</titlul>
+        <autorul>Daniel Defoe</autorul>
+        <an_apariție>1719</an_apariție>
+        <genul>Roman aventură</genul>
+        <nr_împrumuturi>16</nr_împrumuturi>
+    </cartea>
+    <cartea>
+        <titlul>Iluzii pierdute</titlul>
+        <autorul>Honor de Balzac</autorul>
+        <an_apariție>1837</an_apariție>
+        <genul>Roman realist</genul>
+        <nr_împrumuturi>18</nr_împrumuturi>
+    </cartea>
+    <cartea>
+        <titlul>Eugénie Grandet</titlul>
+        <autorul>Honor de Balzac</autorul>
+        <an_apariție>1833</an_apariție>
+        <genul>Roman realist</genul>
+        <nr_împrumuturi>14</nr_împrumuturi>
+    </cartea>
+    <cartea>
+        <titlul>O viață</titlul>
+        <autorul>Guy de Maupassant</autorul>
+        <an_apariție>1883</an_apariție>
+        <genul>Roman naturalist</genul>
+        <nr_împrumuturi>12</nr_împrumuturi>
+    </cartea>
+    <cartea>
+        <titlul>Pânză de păianjen</titlul>
+        <autorul>Cella Serghi</autorul>
+        <an_apariție>1937</an_apariție>
+        <genul>Roman psihologic</genul>
+        <nr_împrumuturi>7</nr_împrumuturi>
+    </cartea>
+    <cartea>
+        <titlul>Invitație la vals</titlul>
+        <autorul>Mihail Drumeș</autorul>
+        <an_apariție>1930</an_apariție>
+        <genul>Roman psihologic</genul>
+        <nr_împrumuturi>11</nr_împrumuturi>
+    </cartea>
+    <cartea>
+        <titlul>Narcis și Gură-de-Aur</titlul>
+        <autorul>Hermann Hess</autorul>
+        <an_apariție>1930</an_apariție>
+        <genul>Roman psihologic</genul>
+        <nr_împrumuturi>9</nr_împrumuturi>
+    </cartea>
+    <cartea>
+        <titlul>Maytrei</titlul>
+        <autorul>Mircea Eliade</autorul>
+        <an_apariție>1933</an_apariție>
+        <genul>Roman filozofic</genul>
+        <nr_împrumuturi>13</nr_împrumuturi>
+    </cartea>
+    <cartea>
+        <titlul>Femeia la 30 de ani</titlul>
+        <autorul>Honor de Balzac</autorul>
+        <an_apariție>1832</an_apariție>
+        <genul>Roman realist</genul>
+        <nr_împrumuturi>20</nr_împrumuturi>
+    </cartea>
+    <cartea>
+        <titlul>Dragostea în vremea holerei</titlul>
+        <autorul>Gabriel Garcia Marquez</autorul>
+        <an_apariție>1985</an_apariție>
+        <genul>Realism magic</genul>
+        <nr_împrumuturi>17</nr_împrumuturi>
+    </cartea>
+    <cartea>
+        <titlul>Puterea prezentului</titlul>
+        <autorul>Eckhart Tolle</autorul>
+        <an_apariție>1997</an_apariție>
+        <genul>Dezvoltare personală</genul>
+        <nr_împrumuturi>22</nr_împrumuturi>
+    </cartea>
+    <cartea>
+        <titlul>Inteligență emoțională</titlul>
+        <autorul>Daniel Goleman</autorul>
+        <an_apariție>1995</an_apariție>
+        <genul>Dezvoltare personală</genul>
+        <nr_împrumuturi>20</nr_împrumuturi>
+    </cartea>
+    <cartea>
+        <titlul>La paradisul femeilor</titlul>
+        <autorul>Emil Zola</autorul>
+        <an_apariție>1883</an_apariție>
+        <genul>Roman naturalist</genul>
+        <nr_împrumuturi>18</nr_împrumuturi>
+    </cartea>
+    <cartea>
+        <titlul>Tropicul Capricornul</titlul>
+        <autorul>Henry Miller</autorul>
+        <an_apariție>1939</an_apariție>
+        <genul>Roman autobiografic</genul>
+        <nr_împrumuturi>14</nr_împrumuturi>
+    </cartea>
+    <cartea>
+        <titlul>Ocolul pământului în 80 de zile</titlul>
+        <autorul>Jules Vernes</autorul>
+        <an_apariție>1873</an_apariție>
+        <genul>Adventure</genul>
+        <nr_împrumuturi>11</nr_împrumuturi>
+    </cartea>
+    <cartea>
+        <titlul>Numele trandafirului</titlul>
+        <autorul>Umberto Eco</autorul>
+        <an_apariție>1980</an_apariție>
+        <genul>Roman istoric</genul>
+        <nr_împrumuturi>26</nr_împrumuturi>
+    </cartea>
+    <cartea>
+        <titlul>Muntele vrăjit</titlul>
+        <autorul>Thomas Mann</autorul>
+        <an_apariție>1924</an_apariție>
+        <genul>Roman psihologic</genul>
+        <nr_împrumuturi>17</nr_împrumuturi>
+    </cartea>
+    <cartea>
+        <titlul>Călătoriile lui Gulliver</titlul>
+        <autorul>Jonathan Swift</autorul>
+        <an_apariție>1726</an_apariție>
+        <genul>Roman satiric</genul>
+        <nr_împrumuturi>15</nr_împrumuturi>
+    </cartea>
+    <cartea>
+        <titlul>Un veac de singurătate</titlul>
+        <autorul>Gabriel Garcia Marquez</autorul>
+        <an_apariție>1967</an_apariție>
+        <genul>Realism magic</genul>
+        <nr_împrumuturi>23</nr_împrumuturi>
+    </cartea>
+    <cartea>
+        <titlul>La răsărit de Eden</titlul>
+        <autorul>John Steinbeck</autorul>
+        <an_apariție>1952</an_apariție>
+        <genul>Roman familial</genul>
+        <nr_împrumuturi>18</nr_împrumuturi>
+    </cartea>
+    <cartea>
+        <titlul>Rebecca</titlul>
+        <autorul>Daphne du Maurier</autorul>
+        <an_apariție>1938</an_apariție>
+        <genul>Thriller psihologic</genul>
+        <nr_împrumuturi>16</nr_împrumuturi>
+    </cartea>
+    <cartea>
+        <titlul>Bucuria vieții</titlul>
+        <autorul>Irving Stone</autorul>
+        <an_apariție>1980</an_apariție>
+        <genul>Roman biografic</genul>
+        <nr_împrumuturi>19</nr_împrumuturi>
+    </cartea>
+    <cartea>
+        <titlul>Trei într-o barcă</titlul>
+        <autorul>Jerome K. Jerome</autorul>
+        <an_apariție>1889</an_apariție>
+        <genul>Comedie umoristică</genul>
+        <nr_împrumuturi>15</nr_împrumuturi>
+    </cartea>
+    <cartea>
+        <titlul>Memoriile unei gheișe</titlul>
+        <autorul>Arthur Golden</autorul>
+        <an_apariție>1997</an_apariție>
+        <genul>Roman istoric</genul>
+        <nr_împrumuturi>21</nr_împrumuturi>
+    </cartea>
+    <cartea>
+        <titlul>Pădurea Norvegiană</titlul>
+        <autorul>Haruki Murakami</autorul>
+        <an_apariție>2005</an_apariție>
+        <genul>Ficțiune contemporană</genul>
+        <nr_împrumuturi>13</nr_împrumuturi>
+    </cartea>
+    <cartea>
+        <titlul>Vindecarea copilului interior</titlul>
+        <autorul>Stefanie Stahl</autorul>
+        <an_apariție>2017</an_apariție>
+        <genul>Dezvoltare personală</genul>
+        <nr_împrumuturi>14</nr_împrumuturi>
+    </cartea>
+    <cartea>
+        <titlul>Acolo unde cântă racii</titlul>
+        <autorul>Delia Owens</autorul>
+        <an_apariție>2018</an_apariție>
+        <genul>Roman contemporan</genul>
+        <nr_împrumuturi>10</nr_împrumuturi>
+    </cartea>
+    <cartea>
+        <titlul>Crima din Orient Express</titlul>
+        <autorul>Agatha Christie</autorul>
+        <an_apariție>1934</an_apariție>
+        <genul>Roman polițist</genul>
+        <nr_împrumuturi>18</nr_împrumuturi>
+    </cartea>
+    <cartea>
+        <titlul>Seria Outlander</titlul>
+        <autorul>Diana Gabaldon</autorul>
+        <an_apariție>1991</an_apariție>
+        <genul>Ficțiune istorică</genul>
+        <nr_împrumuturi>23</nr_împrumuturi>
+    </cartea>
+    <cartea>
+        <titlul>Dama cu camelii</titlul>
+        <autorul>Alexandre Dumas fiul</autorul>
+        <an_apariție>1848</an_apariție>
+        <genul>Roman clasic</genul>
+        <nr_împrumuturi>12</nr_împrumuturi>
+    </cartea>
+    <cartea>
+        <titlul>Gambitul Damei</titlul>
+        <autorul>Walter Tevis</autorul>
+        <an_apariție>1983</an_apariție>
+        <genul>Roman psihologic</genul>
+        <nr_împrumuturi>11</nr_împrumuturi>
+    </cartea>
+    <cartea>
+        <titlul>Oscar și Tanti Roz</titlul>
+        <autorul>Eric-Emanuel Schmitt</autorul>
+        <an_apariție>2002</an_apariție>
+        <genul>Teatru</genul>
+        <nr_împrumuturi>9</nr_împrumuturi>
+    </cartea>
+    <cartea>
+        <titlul>Quo Vadis</titlul>
+        <autorul>Henryk Sienkiewicz</autorul>
+        <an_apariție>1895</an_apariție>
+        <genul>Roman istoric</genul>
+        <nr_împrumuturi>15</nr_împrumuturi>
+    </cartea>
+</Biblioteca>

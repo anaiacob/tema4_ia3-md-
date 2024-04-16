@@ -1,0 +1,7 @@
+<!ELEMENT Biblioteca (cartea*)>
+<!ELEMENT cartea (titlul, autorul, an_apariție, genul, nr_împrumuturi)>
+<!ELEMENT titlul (#PCDATA)>
+<!ELEMENT autorul (#PCDATA)>
+<!ELEMENT an_apariție (#PCDATA)>
+<!ELEMENT genul (#PCDATA)>
+<!ELEMENT nr_împrumuturi (#PCDATA)>
